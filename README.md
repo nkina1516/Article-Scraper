@@ -75,7 +75,19 @@ cd desktop/cs325
 5. Enter this command to run the script:
 
 ```
-/Users/niatekina/miniconda3/envs/(replace with the name of the folder your storing the script in)/bin/python3 "python3articleScraper.py"
+/Users/(replace with what your path would be in your terminal)/miniconda3/envs/(replace with the name of the folder your storing the script in)/bin/python3 "python3articleScraper.py"
+
+```
+Example of my path:
+
+```
+/Users/niatekina/miniconda3/envs/project1/bin/python3 "python3articleScraper.py"
+
+```
+If you dont know your path enter this command:
+
+```
+pwd
 
 ```
 
@@ -93,3 +105,5 @@ Article 3 saved to Articles/Article3/file3.txt
 
 ```
 
+You should now see these newly created folders inside of your `Articles` folder along with the files that go along with 
+them! 
