@@ -81,7 +81,7 @@ cd desktop/cs325
 Example of my path:
 
 ```
-/Users/niatekina/miniconda3/envs/project1/bin/python3 "python3articleScraper.py"
+/Users/niatekina/miniconda3/envs/cs325/bin/python3 "python3articleScraper.py"
 
 ```
 If you dont know your path enter this command:
