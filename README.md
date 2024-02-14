@@ -13,16 +13,25 @@ such as junk and ads.
 
 To use Article-Scraper, follow these steps:
 
-1. Create a new enviornemt using my requirements.yaml file
+1. Create a new enviornemt using my `requirements.yaml` file
 
-Be sure that you are in the location where you stored this file! If you dont know, enter cd into 
-the terminal. Once you've done this, say you had it stored on your dekstop inside of your 
+Be sure that you are in the location where you stored this yaml file! 
+
+If you dont know, enter cd into the terminal. Once you've done this, say you had it stored on your dekstop inside of your 
 cs325 folder, you would enter this following information to the terminal:
 
 ```
 cd
 cd desktop/cs325
 conda env create -n new_env_name -f requirements.yaml
+
+```
+2. Activate the enviornament:
+
+Notice how I am activating the one that got created in step 1
+
+```
+conda activate new_env_name 
 
 ```
 
@@ -44,6 +53,13 @@ nltk                      3.8.1                    pypi_0    pypi
 openssl                   3.0.13               h1a28f6b_0  
 
 ```
+If it is not downloaded, enter the following to the terminal:
+
+```
+pip install newspaper3k
+
+```
+
 ### Run the script
 
 4. Navigate to the place (location) where you stored `python3articleScraper.py`
@@ -59,12 +75,14 @@ cd desktop/cs325
 5. Enter this command to run the script:
 
 ```
-- /Users/niatekina/miniconda3/envs/project1/bin/python3 "python3articleScraper.py"
+/Users/niatekina/miniconda3/envs/project1/bin/python3 "python3articleScraper.py"
 
 ```
+
 Example of what your output shoud look like:
 
 ```
+
 Scraping article 1/6: 
 https://www.cbsnews.com/news/drake-1-15-million-super-bowl-bet-chiefs-to-win/
 Article 1 saved to Articles/Article1/file1.txt
