@@ -52,9 +52,4 @@ Scraping article 2/6: https://www.cbsnews.com/news/do-super-bowl-halftime-perfor
 Article 2 saved to Articles/Article2/file2.txt
 Scraping article 3/6: https://www.cbsnews.com/news/who-is-grammys-host-2024-trevor-noah/
 Article 3 saved to Articles/Article3/file3.txt
-Scraping article 4/6: 
-https://www.cbsnews.com/news/2024-sundance-film-festival-more-highlights-01-27-2024/
-Article 4 saved to Articles/Article4/file4.txt
-Scraping article 5/6: 
-https://www.cbsnews.com/news/netflix-wwe-raw-partnership-live-sports-streaming/
-Article 5 saved to Articles/Article5/file5.txt
+etc...
