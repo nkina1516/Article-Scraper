@@ -75,7 +75,7 @@ cd desktop/cs325
 5. Enter this command to run the script:
 
 ```
-/Users/niatekina/miniconda3/envs/project1/bin/python3 "python3articleScraper.py"
+/Users/niatekina/miniconda3/envs/(replace with the name of the folder your storing the script in)/bin/python3 "python3articleScraper.py"
 
 ```
 
