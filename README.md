@@ -72,5 +72,9 @@ Scraping article 2/6: https://www.cbsnews.com/news/do-super-bowl-halftime-perfor
 Article 2 saved to Articles/Article2/file2.txt
 Scraping article 3/6: https://www.cbsnews.com/news/who-is-grammys-host-2024-trevor-noah/
 Article 3 saved to Articles/Article3/file3.txt
+<<<<<<< HEAD
 
 ```
+=======
+etc...
+>>>>>>> 95af4de3c6890b2f728fbc788860ef3823069644
