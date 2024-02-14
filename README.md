@@ -46,8 +46,8 @@ openssl                   3.0.13               h1a28f6b_0
 ```
 ### Run the script
 
-4. Navigate to the place (location) where you stored the python3articleScraper
-Ex: I stored my pyhton3articleScraper in my cs325 folder
+4. Navigate to the place (location) where you stored `python3articleScraper.py`
+Ex: I stored my `pyhton3articleScraper.py` in my cs325 folder
 
 You'd enter this to the terminal:
 
@@ -72,9 +72,6 @@ Scraping article 2/6: https://www.cbsnews.com/news/do-super-bowl-halftime-perfor
 Article 2 saved to Articles/Article2/file2.txt
 Scraping article 3/6: https://www.cbsnews.com/news/who-is-grammys-host-2024-trevor-noah/
 Article 3 saved to Articles/Article3/file3.txt
-<<<<<<< HEAD
 
 ```
-=======
-etc...
->>>>>>> 95af4de3c6890b2f728fbc788860ef3823069644
+
